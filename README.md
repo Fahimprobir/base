@@ -9,4 +9,15 @@ Parasite 6
 Se7en
 Shutter Island 8
 The Avengers 9
-
+3 Idiots 10
+Blade Runner 2049 11
+Oldboy 12
+The Matrix 13
+The Truman Show 14
+Kung Fu Panda 15
+Shrek 16
+Pirates of the Caribbean 17
+Kingdom of Heaven 18
+The Incredible Hulk 19
+Oppenheimer 20
+Avatar 21
