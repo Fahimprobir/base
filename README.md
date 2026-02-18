@@ -16,7 +16,7 @@ The Matrix 13
 The Truman Show 14
 Kung Fu Panda 15
 Shrek 16
-Pirates of the Caribbean 17
+Pirates of the Caribbean: The Curse of the Black Pearl 17
 Kingdom of Heaven 18
 The Incredible Hulk 19
 Oppenheimer 20
@@ -50,6 +50,18 @@ grave of the fireflies 46
 The Pianist 48
 Coco 49
 Zootopia 50
+Zodiac 51
+Drive 52
+The Incredibles 53
+Megamind 54
+Black Panther 55
+The Truman Show 56
+Captain America: The First Avenger 57
+Jurassic World 58
+Kong: Skull Island 59
+Guardians of the Galaxy 60
+Man of Steel 61
+
 
 
 
