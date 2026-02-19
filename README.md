@@ -5,7 +5,7 @@ Taxi Driver(1976) 2
 The Shawshank Redemption 3
 The Dark Knight 4
 Memories of Murder 5
-Parasite 6
+Big Hero 6
 Se7en
 Shutter Island 8
 The Avengers 9
@@ -25,7 +25,7 @@ Inside Out 22
 Inception 23
 Puss in Boots 24
 Alice in Wonderland 25
-Corpse Bride 26
+Avengers: Endgame 26
 Up 27
 Nightcrawler 28
 Spider-Man 29
@@ -66,11 +66,36 @@ Home Alone 63
 Harry Potter and the Philosopher's Stone 64
 Doraemon: Nobita's Dinosaur (1980) 65
 Big Hero 66
-
-
-
-
-
-
-
-
+Ice Age 67
+Corpse Bride 68
+Captain America: Civil War 69
+Parasite 70
+Logan 71
+my Watchlist33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+Dune
+The Odyssey
+Spider-Man: Brand New Day
+Prisoners
+Brothers
+Shrek 5
+We Live in Time
+Hacksaw Ridge
+The Social Network
+Now You See Me
+Eternal Sunshine of the Spotless Mind
+Dumb & Dumber
+Materialists
+Sherlock Holmes
+Tropic Thunder
+28 Days Later
+The Wolf of Wall Street
+(500) Days of Summer
+SnowdenMad Max: Fury Road
+Troy
+American History X
+Glass Onion: A Knives Out Mystery
+The Lord of the Rings: The Fellowship of the Ring
+Sweeney Todd: The Demon Barber of Fleet Street
+Dark Shadows
+The Godfather
+Scarface
