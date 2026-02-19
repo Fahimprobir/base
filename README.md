@@ -60,7 +60,12 @@ Captain America: The First Avenger 57
 Jurassic World 58
 Kong: Skull Island 59
 Guardians of the Galaxy 60
-Man of Steel 61
+The Pursuit of Happyness 61
+Dragon Hunters 62
+Home Alone 63
+Harry Potter and the Philosopher's Stone 64
+Doraemon: Nobita's Dinosaur (1980) 65
+Big Hero 66
 
 
 
